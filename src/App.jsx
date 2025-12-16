@@ -1,11 +1,11 @@
 import { useState } from "react";
 import "./App.css";
-import Input from "./components/input/Input";
+import SearchInput from "./components/input/SearchInput";
 
 function App() {
   return (
     <>
-      <Input />
+      <SearchInput />
     </>
   );
 }
